@@ -2,6 +2,8 @@
 
 Namastey, It is ready to go and use docker image for centos. 
 
+### Author: Yavdhesh Sanchihar
+
 
 ## Build
 

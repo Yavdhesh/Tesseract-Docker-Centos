@@ -8,7 +8,7 @@ import pytesseract
 import argparse
 import cv2
 
-__author__ = 'Rick Torzynski <ricktorzynski@gmail.com>'
+__author__ = 'Yavdhesh Sanchihar'
 __source__ = ''
 
 app = Flask(__name__)

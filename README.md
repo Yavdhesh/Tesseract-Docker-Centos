@@ -17,6 +17,10 @@ docker build -t tesseract-centos .
 ```python
 docker container run -d -p 5000:5000 tesseract-centos 
 ```
+## Run locally
+```python
+http://localhost:5000/
+```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
